@@ -11,3 +11,5 @@ An interesting project and case study that nudges you to consider the human cont
 **Spam Email Detector** 📧
 
 Built a binary classifier with logistic regression to classify emails as spam/non-spam using features from text. Identified key features to distinguish emails through exploratory data analysis.
+
+![Project Screenshot](/images/Screenshot 2026-03-20 014717.png)
