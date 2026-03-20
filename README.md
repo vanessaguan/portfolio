@@ -1,6 +1,6 @@
 # Data Science @ UC Berkeley
 
 ## Projects
-Housing Price Predictor
+ * Housing Price Predictor
 
-Spam Email Detector
+ * Spam Email Detector
